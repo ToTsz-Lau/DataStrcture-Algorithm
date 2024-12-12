@@ -1,0 +1,7 @@
+# ninja log v5
+0	228	1696285984036959094	CMakeFiles/DoublyLinkedList.dir/main.cpp.o	9d2290d9488f22b0
+229	295	1696285984106106761	DoublyLinkedList	8fd035890e7aefbf
+2	268	1696285995858372625	CMakeFiles/DoublyLinkedList.dir/main.cpp.o	9d2290d9488f22b0
+269	306	1696285995897710661	DoublyLinkedList	8fd035890e7aefbf
+2	266	1696345364880703204	CMakeFiles/DoublyLinkedList.dir/main.cpp.o	9d2290d9488f22b0
+266	309	1696345364925622489	DoublyLinkedList	8fd035890e7aefbf

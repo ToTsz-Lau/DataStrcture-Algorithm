@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/kenny/Desktop/Testing Files/A9/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/MySimpleExecutable.dir/main.cpp.o -c \"/Users/kenny/Desktop/Testing Files/A9/main.cpp\"",
+  "file": "/Users/kenny/Desktop/Testing Files/A9/main.cpp",
+  "output": "CMakeFiles/MySimpleExecutable.dir/main.cpp.o"
+}
+]
